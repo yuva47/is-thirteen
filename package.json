@@ -1,0 +1,19 @@
+{
+  "name": "is-thirteen",
+  "version": "1.0.0",
+  "description": "Npm test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuva47/is-thirteen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuva47/is-thirteen/issues"
+  },
+  "homepage": "https://github.com/yuva47/is-thirteen#readme"
+}
